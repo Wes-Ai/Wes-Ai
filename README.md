@@ -4,14 +4,25 @@ Working on:
 * Bachelors of Computer Science
 * Website Development
 * Running a home server
-* Building and shreddin' my Ebike
+* Learning Fusion 360
+* 3d Printing
 
-You'll usually find me at:
-* Campus library
-* Home
-* In a hammock
-* 30 miles out in the wilderness
+Interested in:
+* Networking
+* Website Development
+* Docker
+* 3d Printing / CAD Software
+* Quadcopters
+* Embedded solutions (Raspberry Pi, Arduino)
 
-But you can also reach me at:
+Also spend time doing:
+* Long distance backpacking
+* Bikepacking
+* Gaming
+* Truck camping
+* Ebook reading
+* Running
+
+Available at:
 * [Linkedin](https://www.linkedin.com/in/wes-ai/)
 * [Email](mailto:wesleydeansmith@gmail.com)
