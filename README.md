@@ -1,4 +1,4 @@
-# Hey im Wes
+# Hi, I'm Wes
 
 Working on:
 * Bachelors of Computer Science
@@ -12,7 +12,6 @@ Interested in:
 * Website Development
 * Docker
 * 3d Printing / CAD Software
-* Quadcopters
 * Embedded solutions (Raspberry Pi, Arduino)
 
 Available at:
