@@ -1,8 +1,7 @@
 # Hi, I'm Wes
 
 Working on:
-* Bachelors of Computer Science
-* Website Development
+* Starting a Web Design & Development Business
 * Running a home server
 * Learning Fusion 360
 * 3d Printing
